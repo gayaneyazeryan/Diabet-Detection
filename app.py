@@ -6,7 +6,7 @@ st.set_page_config(page_title='Diabetic Prediction Web App', page_icon=':moneyba
 
 
 
-loaded_model = pickle.load(open('/home/gayane/Desktop/MLE/trained_model1.sav', 'rb'))
+loaded_model = pickle.load(open('/home/gayane/Desktop/Diabet-Detection/trained_model1.sav', 'rb'))
 
 
 
